@@ -50,7 +50,6 @@ var config = {
     },
     cio = {
         parent: cto,
-        HTMLclass: 'light-gray',
         text:{
             name: "Ron Blomquist",
             title: "Chief Information Security Officer"
